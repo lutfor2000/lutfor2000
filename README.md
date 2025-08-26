@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img width="1194" height="302" alt="image" src="https://github.com/user-attachments/assets/3ff6efc1-39a9-40d1-865e-2aef39c871c1" />
+
 
 <!--
 **lutfor2000/lutfor2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
