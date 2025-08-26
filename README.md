@@ -1,4 +1,4 @@
-## Hi Lutfor Rhaman👋
+##👋
 <img width="1624" height="809" alt="Screenshot_6" src="https://github.com/user-attachments/assets/d0130741-1be8-4646-aa13-0c85f2f1d4dc" />
 
 <!--
