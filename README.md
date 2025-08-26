@@ -1,5 +1,6 @@
 ## Hi there 👋
-![lutfor005Rhamman3](https://github.com/user-attachments/assets/56b358d8-2476-409c-88ce-1672f6ecb745)
+<img width="1191" height="298" alt="Screenshot_5" src="https://github.com/user-attachments/assets/160be588-4ac9-4e96-a168-e65143269d4d" />
+
 
 
 
