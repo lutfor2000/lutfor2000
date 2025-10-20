@@ -22,4 +22,4 @@ Love to work with Laravel, Vue web framework to build high scalable web applicat
 
 Results-oriented Web Application Developer and Online Business Developer with considerable training and enterprise experience in Web site design and layout and in all stages of design, coding, and testing of Web applications, and in the formation, planning, and implementation of online business ventures.
 
-Skills: HTML | CSS | Javascript | Bootstrap | Tailwind | PHP | Laravel | React.js | Livewire
+Skills: HTML | CSS | Javascript | Bootstrap | Tailwind | PHP | Laravel | React.js | Livewire | Vue.js
